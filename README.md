@@ -1,6 +1,4 @@
-# cloudflare-ddns
-
-Docker Compose configuration for automatic DNS updates on Cloudflare using oznu/cloudflare-ddns.
+# Docker Compose setup for automatically updating Cloudflare DNS records with your current public IP using the oznu/cloudflare-ddns container.
 
 ## Example `docker-compose.yml`
 
